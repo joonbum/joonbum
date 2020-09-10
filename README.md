@@ -1,16 +1,9 @@
-# Hugo Goa Demo
+I am an Associate Scientist at the University of Wisconsin-Madison. I am interested in drivers' behaviors in manual/automated vehicles and apply predictive modeling to understand it. More details of my research can be found [here](https://joonbum.netlify.app/).
 
-## About
+## 📬 Get in touch
 
-This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
-
-## Usage
-
-* Install [Hugo](gohugo.io)
-* git clone https://github.com/shenoybr/hugo-goa-demo
-* Run `hugo server -w -v` from the root directory
-* Site will be visible at `localhost:1313`
-
-## License
-
-Licensed under the [MIT](https://opensource.org/licenses/MIT) License. See the [LICENSE](https://raw.githubusercontent.com/shenoybr/hugo-goa-demo/master/LICENSE) file for more details.
+- [Web](https://joonbum.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/joonbum-lee-22861445/)
+- [Twitter](https://twitter.com/JoonbumLee)
+- [Google Scholar](https://scholar.google.com/citations?user=If8VjuwAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Joonbum_Lee)
