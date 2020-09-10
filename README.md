@@ -1,6 +1,8 @@
 ## Hello 👋
 
-I am an Associate Scientist at the University of Wisconsin-Madison. I am interested in drivers' behaviors in manual/automated vehicles and apply predictive modeling to understand it. More details of my research can be found [here](https://joonbum.netlify.app/).
+I am Joonbum and an Associate Scientist at the University of Wisconsin-Madison. I am interested in drivers' behaviors in manual/automated vehicles and apply predictive modeling to understand it. More details of my research can be found [here](https://joonbum.netlify.app/).
+
+I love soccer ⚽️. And recently found interests in weight lifting and BBQ. 
 
 ## 📬 Get in touch
 
