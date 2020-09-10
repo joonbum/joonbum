@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://joonbum.netlyfy.app"
+baseurl = "https://joonbum.netlify.app/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
