@@ -1,0 +1,101 @@
+## Basic Configuration
+
+baseurl = "https://joonbum.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Joonbum Lee"
+title = "Joonbum Lee"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "G-G04FP8WRHJ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Joonbum Lee"
+intro = "Associate Scientist at the University of Wisconsin-Madison"
+description = "I study drivers' behavior using various types of data and advanced statistics. In my spare time, I kick a soccer ball or lift weights."
+authorimage = "JL_headshot.jpg"
+dateformat = "Sep 8, 2020"
+
+## Site Meta Settings
+[params.meta]
+description = "Joonbum Lee"
+keywords = "human factors"
+
+## Social Accounts
+[params.social]
+#github = "<username>"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "joonbum-lee-22861445"
+twitter = "JoonbumLee"
+#facebook = "<username>"
+#google = "<username>"
+googlescholar = "https://scholar.google.com/citations?user=If8VjuwAAAAJ&hl=en"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+email = "joonbum.lee@wisc.edu"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Joonbum Lee. "
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "About"
+    identifier = "About"
+    weight = 100
+    url = "/About/"
+[[menu.main]]
+    name = "Project"
+    identifier = "Project"
+    weight = 200
+    url = "/Project/"
+[[menu.main]]
+    name = "Publication"
+    identifier = "Publication"
+    weight = 300
+    url = "/Publication/"
+[[menu.main]]
+    name = "CV"
+    identifier = "CV"
+    weight = 400
+    url = "files/cv.pdf"
