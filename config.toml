@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Joonbum Lee"
 intro = "Associate Scientist at the University of Wisconsin-Madison"
-description = "I study drivers' behavior using various types of data and advanced statistics. In my spare time, I kick a soccer ball or lift weights."
+description = "I study drivers' behavior using various types of data and advanced statistics. I provide free consulting for any sutdents who need advices on their academic/career journeys on every Wednesday morning (9am-10am). Feel free to schedule a meeting with me using this [link.](https://calendly.com/joonbum-lee/30min?month=2020-09&date=2020-09-30)"
 authorimage = "JL_headshot.jpg"
 dateformat = "Sep 8, 2020"
 

@@ -21,3 +21,5 @@ My broad research interests are in driving safety and predictive modeling. Resea
 - Framework of driver-automation collaboration in partially automated vehicles
 - Applications of advanced modeling to understand drivers' threaded cognition and visual attention
 - Applications of advanced modeling to understand speeding behavior
+
+In my spare time, I kick a soccer ball, lift weights, or BBQ. 
