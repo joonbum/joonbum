@@ -95,7 +95,12 @@ displayrssicon = true
     weight = 300
     url = "/Publication/"
 [[menu.main]]
+    name = "Teaching"
+    identifier = "Teaching"
+    weight = 400
+    url = "/Teaching/"
+[[menu.main]]
     name = "CV"
     identifier = "CV"
-    weight = 400
+    weight = 500
     url = "files/cv.pdf"
