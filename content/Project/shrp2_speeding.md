@@ -3,7 +3,7 @@ categories:
 - Completed (2018)
 comments: false
 date: "2016-10-02T22:55:05-04:00"
-description: A project to examine a series of research questions using the SHRP2 data.
+description: A project to examine a series of research questions using the SHRP2 data
 draft: false
 showcomments: true
 showpagemeta: true
@@ -12,7 +12,7 @@ tags:
 - SHRP2
 - speeding
 - countermeasure
-title: Analyisis of SHRP2 speeding data
+title: Analyisis of SHRP2 Speeding Data
 ---
 #### Sponsor: NHTSA
 #### Role: Statistician

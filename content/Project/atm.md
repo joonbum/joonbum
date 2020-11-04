@@ -12,7 +12,7 @@ tags:
 - ATM
 - guideline
 
-title: Principles and guidance for presenting drivers with Dynamic information on Active Traffic Management (ATM)
+title: Principles and Guidance for Presenting Drivers with Dynamic Information on Active Traffic Management (ATM)
 ---
 #### Sponsor: NCHRP
 #### Role: Project manager

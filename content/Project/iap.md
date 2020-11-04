@@ -1,6 +1,6 @@
 ---
 categories:
-- Ongoing (Left)
+- Completed (2020)
 comments: false
 date: "2016-10-02T22:55:05-04:00"
 description: A project to investigate effects of roadway features on speeding
