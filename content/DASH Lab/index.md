@@ -10,7 +10,7 @@ tags:
 - about
 title: 
 ---
-![logo](/img/logo.png)
+![logo](/img/logo_helvetica.png)
 ---
 ## About us
 The DASH Lab investigates topics related to data analysis and visualization in Cognitive Systems and Human Factors Engineering. We are especially interested in applications of advanced statistics to solve human factors issue in a driving safety domain, such as driver distraction, driver readiness in semi-automated vehicles, and motivations for speeding. 
