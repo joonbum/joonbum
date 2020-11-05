@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #526d7a;
+    color: #515151;
 }
 body
 {
@@ -30,7 +30,7 @@ body
     min-height: 100%;
     margin: 0;
 
-    background-color: #fcfcfc;
+    background-color: #ffffff;
 }
 html
 {
@@ -66,7 +66,7 @@ li
 {
     overflow: auto;
 
-    max-width: 680px;
+    max-width: 1800px;
     padding: 0 15px;
 }
 .content
@@ -263,4 +263,7 @@ pre > code {
     white-space: pre;
     word-wrap: initial;
     word-break: initial;
+}
+img {
+  max-width: 100%;
 }
