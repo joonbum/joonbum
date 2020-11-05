@@ -25,7 +25,7 @@ The DASH Lab investigates topics related to data analysis and visualization in C
 - Email: joonbum.lee at wisc dot edu
  
 ---
-#### Sydney Yilin Tong (Undergraduate Research Scholar)
+#### Sydney Tong (Undergraduate Research Scholar)
 ![ST](/img/ST_headshot.jpg) 
 - Research interests: automated vehicles, driver behavior, human-machine interface
 - Fun fact: I've hiked up an active volcano located off the western coast of Java (an island of Indonesia)
