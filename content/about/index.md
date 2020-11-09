@@ -22,4 +22,4 @@ My broad research interests are in driving safety and predictive modeling. Resea
 - Applications of advanced modeling to understand drivers' threaded cognition and visual attention
 - Applications of advanced modeling to understand speeding behavior
 
-I provide free consulting for any sutdents who need advices on their academic/career journeys on every Wednesday morning (9am-10am CST). Feel free to schedule a meeting with me using this [link.](https://calendly.com/joonbum/15min)
+I provide free consulting for any students who need advices on their academic/career journeys on every Wednesday morning (9am-10am CST). Feel free to schedule a meeting with me using this [link.](https://calendly.com/joonbum/15min)
