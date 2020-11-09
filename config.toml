@@ -41,7 +41,7 @@ linkedin = "joonbum-lee-22861445"
 twitter = "JoonbumLee"
 #facebook = "<username>"
 #google = "<username>"
-googlescholar = "https://scholar.google.com/citations?user=If8VjuwAAAAJ&hl=en&oi=ao"
+googlescholar = "https://scholar.google.com/citations?hl=en&user=If8VjuwAAAAJ&view_op=list_works&gmla=AJsN-F4SrqhNu0xU3aUTfIa9H_B1eByIlscOjvPr7ecuGqfLiO8fOnUlXU_mJcBoor6vRwr7NwqZ7flK74POExVj_9CzauAPdYul7kvllCpx5Cnpsq1EYGM"
 #stackoverflow = "<username>"
 #lastfm = "<username>"
 #goodreads = "<username>"
@@ -107,5 +107,5 @@ displayrssicon = true
 [[menu.main]]
     name = "CV"
     identifier = "CV"
-    weight = 500
+    weight = 600
     url = "files/cv.pdf"
