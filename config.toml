@@ -99,7 +99,7 @@ displayrssicon = true
 #    identifier = "Publication"
 #    weight = 400
 #    url = "/Publication/"
-#[[menu.main]]
+[[menu.main]]
     name = "Teaching"
     identifier = "Teaching"
     weight = 500
