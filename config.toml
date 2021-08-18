@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Joonbum Lee"
 intro = "Associate Scientist at the University of Wisconsin-Madison"
-description = "I study drivers' behavior using advanced statistics. In my spare time, I kick a soccer ball or lift weights. "
+description = "I study drivers' behavior with a focus of driver-automation cooperation. In my spare time, I like to cook, lift weights, play soccer, and go camping."
 authorimage = "JL_headshot.jpg"
 dateformat = "Sep 8, 2020"
 
@@ -84,22 +84,22 @@ displayrssicon = true
     identifier = "About"
     weight = 100
     url = "/About/"
-[[menu.main]]
-    name = "Lab"
-    identifier = "Lab"
-    weight = 200
-    url = "/DASH Lab/"
-[[menu.main]]
-    name = "Project"
-    identifier = "Project"
-    weight = 300
-    url = "/Project/"
-[[menu.main]]
-    name = "Publication"
-    identifier = "Publication"
-    weight = 400
-    url = "/Publication/"
-[[menu.main]]
+#[[menu.main]]
+#    name = "Lab"
+#    identifier = "Lab"
+#    weight = 200
+#    url = "/DASH Lab/"
+#[[menu.main]]
+#    name = "Project"
+#    identifier = "Project"
+#    weight = 300
+#    url = "/Project/"
+#[[menu.main]]
+#    name = "Publication"
+#    identifier = "Publication"
+#    weight = 400
+#    url = "/Publication/"
+#[[menu.main]]
     name = "Teaching"
     identifier = "Teaching"
     weight = 500
