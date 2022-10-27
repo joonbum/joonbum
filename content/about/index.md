@@ -17,8 +17,7 @@ My background is in human factors and driving safety, and I have experience in r
 
 My broad research interests are in driving safety and predictive modeling. Research topics that I am currently focusing on include:
 - Driver-automation teaming
-- Designing driver-automation cooperation
-- Human-Machine Interface strategies to overcome situation awareness deficiency after disengagement in automated vehicles
+- Designing driver-automation communication
+- Responsive driving automation
 - Applications of advanced modeling to understand drivers' interaction with manual or partially automated vehicles
 
-I provide free consulting for literally any students who need advices on their academic/career journeys on every Monday (1pm-1:30pm CST). Feel free to schedule a meeting with me using this [link.](https://calendly.com/joonbum/15min)
