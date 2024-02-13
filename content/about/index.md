@@ -11,13 +11,7 @@ tags:
 title: About
 ---
 
-I am an Associate Scientist at the University of Wisconsin-Madison. I have over 10 years of experience conducting Human Factors research involving traffic safety. I have served as a project manager/principal investigator on several Human Factors projects for US DOT and industry clients. Before joining the University of Wisconsin-Madison, I worked at MIT as a postdoctoral associate (2014-2016) and at Battelle Memorial Institute as a Principal Research Scientist (2016-2020). 
+I'm an Associate Scientist at the University of Wisconsin-Madison with over a decade of experience in Human Factors research, particularly in traffic safety. I've led projects for the US DOT and industry clients, managing and investigating various aspects of Human Factors. Prior to my current role, I was a postdoctoral associate at MIT (2014-2016) and a Principal Research Scientist at Battelle Memorial Institute (2016-2020).
 
-My background is in human factors and driving safety, and I have experience in research design and statistical analysis of time course behavioral data, based upon visual, physiological, and performance measures in the driving research domain. Also I have extensive experience processing and analyzing Naturalistic Driving Study data (e.g., SHRP2 and NEST) to understand drivers' risky behavior and visual attention allocation.
-
-My broad research interests are in driving safety and predictive modeling. Research topics that I am currently focusing on include:
-- Driver-automation teaming
-- Designing driver-automation communication
-- Responsive driving automation
-- Applications of advanced modeling to understand drivers' interaction with manual or partially automated vehicles
+My research interests focus on driving safety, particularly in areas such as driver-automation collaboration, designing effective human-machine interfaces, and applying advanced statistics to study drivers' interaction with manual or partially automated vehicles.
 
